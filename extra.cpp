@@ -1,1 +1,1 @@
-void func2() {}
+void func1() {}
