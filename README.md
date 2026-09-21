@@ -1,1 +1,1 @@
-Проект для изучения GitHub Flow
+Version B
